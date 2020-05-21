@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\TimeReports\bin\Debug\TimeReports.exe.config
+C:\Users\user\source\repos\TimeReports\bin\Debug\TimeReports.exe
+C:\Users\user\source\repos\TimeReports\bin\Debug\TimeReports.pdb
+C:\Users\user\source\repos\TimeReports\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\user\source\repos\TimeReports\bin\Debug\System.Security.AccessControl.dll
+C:\Users\user\source\repos\TimeReports\bin\Debug\System.Security.Permissions.dll
+C:\Users\user\source\repos\TimeReports\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\user\source\repos\TimeReports\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\user\source\repos\TimeReports\bin\Debug\System.Security.AccessControl.xml
+C:\Users\user\source\repos\TimeReports\bin\Debug\System.Security.Permissions.xml
+C:\Users\user\source\repos\TimeReports\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\user\source\repos\TimeReports\obj\Debug\TimeReports.csprojAssemblyReference.cache
+C:\Users\user\source\repos\TimeReports\obj\Debug\TimeReports.csproj.CopyComplete
+C:\Users\user\source\repos\TimeReports\obj\Debug\TimeReports.exe
+C:\Users\user\source\repos\TimeReports\obj\Debug\TimeReports.pdb
